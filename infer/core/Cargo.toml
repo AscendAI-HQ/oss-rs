@@ -1,0 +1,10 @@
+[package]
+name = "ascendai_infer"
+version = "0.1.0"
+edition = "2021"
+description = "Geograph-based shortest distance calculation for Rust"
+license = "MIT"
+repository = "https://github.com/AscendAI-HQ/oss-rs"
+documentation = "https://github.com/AscendAI-HQ/oss-rs"
+
+[dependencies]
